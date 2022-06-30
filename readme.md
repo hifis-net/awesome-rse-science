@@ -26,6 +26,9 @@ Research projects that deal with RSE topics (not only research software) in alph
 ## RSE Conferences
 RSE Conferences sorted by year descending.
 
+### 2023
+- deRSE Unconference 2023
+
 ### 2022
 - [RSECon22](https://rsecon2022.society-rse.org/)
 - [RSE Workshops @ GI SE2022](https://se-2022.gi.de/rse22workshops)
