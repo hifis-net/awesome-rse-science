@@ -1,3 +1,4 @@
+<!--lint disable double-link-->
 # Awesome Research Software Engineering Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated awesome list of Research Software Engineering (RSE) Science. Inspired by [these curated collections](https://github.com/sindresorhus/awesome). We cover scientific working groups, projects, conferences, and literature.
@@ -33,8 +34,8 @@ A curated awesome list of Research Software Engineering (RSE) Science. Inspired 
 RSE Conferences sorted by year descending.
 
 ### 2023
-- [deRSE23](https://de-rse23.sciencesconf.org/) - Conference for Research Software Engineers in Germany 
-- [deRSE Unconference 2023](https://de-rse.org/unconf2023/) - First unconference by and for the German Reseach Software Engineering Community
+- [deRSE23](https://de-rse23.sciencesconf.org/) - Conference for Research Software Engineers in Germany.
+- [deRSE Unconference 2023](https://de-rse.org/unconf2023/) - First unconference by and for the German Reseach Software Engineering Community.
 
 ### 2022
 - [RSECon22](https://rsecon2022.society-rse.org/)
@@ -78,7 +79,7 @@ Research projects that deal with RSE topics (not only research software) in alph
 
 ## Scientific Working Groups
 Scientific working groups that are built for dealing with RSE topics (not only research software) in alphabetical order.
-- [NAME](LINK) - Short description of working group
+- [NAME](LINK) - Short description of working group.
 
 ## Related Lists
 
