@@ -79,7 +79,6 @@ Research projects that deal with RSE topics (not only research software) in alph
 
 ## Scientific Working Groups
 Scientific working groups that are built for dealing with RSE topics (not only research software) in alphabetical order.
-- [NAME](LINK) - Short description of working group.
 
 ## Related Lists
 
