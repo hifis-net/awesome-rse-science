@@ -22,12 +22,15 @@ Scientific working groups that are built for dealing with RSE topics (not only r
 ## RSE Research Projects
 Research projects that deal with RSE topics (not only research software) in alphabetical order.
 - [Project Hermes](http://software-metadata.pub/): Developing automated workflows for metadata rich research software publications.
+- [HIRSE_PS](https://www.helmholtz-hirse.de/): Helmholtz Platform for Research Software Engineering - Preparatory Study
+- [ReSUS](https://www.iaas.uni-stuttgart.de/en/projects/resus/): Reusable Software University Stuttgart
 
 ## RSE Conferences
 RSE Conferences sorted by year descending.
 
 ### 2023
-- deRSE Unconference 2023
+- [deRSE23](https://de-rse23.sciencesconf.org/): Conference for Research Software Engineers in Germany 
+- [deRSE Unconference 2023](https://de-rse.org/unconf2023/): First unconference by and for the German Reseach Software Engineering Community
 
 ### 2022
 - [RSECon22](https://rsecon2022.society-rse.org/)
