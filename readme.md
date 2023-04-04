@@ -1,36 +1,41 @@
+<!--lint disable double-link-->
 # Awesome Research Software Engineering Science [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated awesome list of Research Software Engineering (RSE) Science. Inspired by [these curated collections](https://github.com/sindresorhus/awesome).
+A curated awesome list of Research Software Engineering (RSE) Science. Inspired by [these curated collections](https://github.com/sindresorhus/awesome). We cover scientific working groups, projects, conferences, and literature.
 
+**About//** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[Contributing](contributing.md)&nbsp;&nbsp;&nbsp;
+[HIFIS](https://hifis.net)&nbsp;&nbsp;&nbsp;
+[Awesome](https://github.com/sindresorhus/awesome)
+
+**Sub lists//**&nbsp;&nbsp;&nbsp;
+[Educational Resources](https://github.com/hifis-net/awesome-rse-education)&nbsp;&nbsp;&nbsp;
+[Communities](https://github.com/hifis-net/awesome-rse-communities)&nbsp;&nbsp;&nbsp;
+[FAIR](https://github.com/hifis-net/awesome-rse-fair)&nbsp;&nbsp;&nbsp;
+[Policies & Guidelines](https://github.com/hifis-net/awesome-rse-policies)&nbsp;&nbsp;&nbsp;
+[Science](https://github.com/hifis-net/awesome-rse-science)
 
 ## Contents
-- [RSE Scientific Working Groups](#rse-scientific-working-groups)
-- [RSE Research Projects](#rse-research-projects)
-- [RSE Conferences](#rse-conferences)
+- [Conferences](#conferences)
+  - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
   - [2020](#2020)
   - [2019](#2019)
   - [2018](#2018)
   - [2017](#2017)
-- [RSE Literature](#rse-literature)
+- [Literature](#literature)
+- [Research Projects](#research-projects)
+- [Scientific Working Groups](#scientific-working-groups)
+- [Related Lists](#related-lists)
+- [Contribute](#contribute)
 
-## RSE Scientific Working Groups
-Scientific working groups that are built for dealing with RSE topics (not only research software) in alphabetical order.
-- [NAME](LINK): Short description of working group
-
-## RSE Research Projects
-Research projects that deal with RSE topics (not only research software) in alphabetical order.
-- [Project Hermes](http://software-metadata.pub/): Developing automated workflows for metadata rich research software publications.
-- [HIRSE_PS](https://www.helmholtz-hirse.de/): Helmholtz Platform for Research Software Engineering - Preparatory Study
-- [ReSUS](https://www.iaas.uni-stuttgart.de/en/projects/resus/): Reusable Software University Stuttgart
-
-## RSE Conferences
+## Conferences
 RSE Conferences sorted by year descending.
 
 ### 2023
-- [deRSE23](https://de-rse23.sciencesconf.org/): Conference for Research Software Engineers in Germany 
-- [deRSE Unconference 2023](https://de-rse.org/unconf2023/): First unconference by and for the German Reseach Software Engineering Community
+- [deRSE23](https://de-rse23.sciencesconf.org/) - Conference for Research Software Engineers in Germany.
+- [deRSE Unconference 2023](https://de-rse.org/unconf2023/) - First unconference by and for the German Reseach Software Engineering Community.
 
 ### 2022
 - [RSECon22](https://rsecon2022.society-rse.org/)
@@ -58,13 +63,24 @@ RSE Conferences sorted by year descending.
 ### 2017
 - [RSEConUK](https://rse.ac.uk/conf2017/)
 
-## RSE Literature
+## Literature
 Different collections of relevant RSE literature.
 
-- [Zotero Group RSE](https://www.zotero.org/groups/2295543):
-- [Zotero Group FAIR4RS](https://www.zotero.org/groups/2501020/fair4rs/items/6H833P3W/library):
-- [Zenodo Community Research Software](https://zenodo.org/communities/researchsoftwarestudies):
-- [Zenodo Community deRSE](https://zenodo.org/communities/de-rse/):
+- [Zotero Group RSE](https://www.zotero.org/groups/2295543)
+- [Zotero Group FAIR4RS](https://www.zotero.org/groups/2501020/fair4rs/items/6H833P3W/library)
+- [Zenodo Community Research Software](https://zenodo.org/communities/researchsoftwarestudies)
+- [Zenodo Community deRSE](https://zenodo.org/communities/de-rse/)
+
+## Research Projects
+Research projects that deal with RSE topics (not only research software) in alphabetical order.
+- [Project Hermes](http://software-metadata.pub/) - Developing automated workflows for metadata rich research software publications.
+- [HIRSE_PS](https://www.helmholtz-hirse.de/) - Helmholtz Platform for Research Software Engineering - Preparatory Study.
+- [ReSUS](https://www.iaas.uni-stuttgart.de/en/projects/resus/) - Reusable Software University Stuttgart.
+
+## Scientific Working Groups
+Scientific working groups that are built for dealing with RSE topics (not only research software) in alphabetical order.
+
+## Related Lists
 
 ## Contribute
 
