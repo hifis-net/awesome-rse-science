@@ -40,6 +40,7 @@ RSE Conferences sorted by year descending.
 ### 2023
 - [deRSE23](https://de-rse23.sciencesconf.org/) - Conference for Research Software Engineers in Germany.
 - [deRSE Unconference 2023](https://de-rse.org/unconf2023/) - First unconference by and for the German Reseach Software Engineering Community.
+- [Nordic-RSE unconference 2023](https://nordic-rse.org/events/2023-online-unconference/) - Nordic-RSE online unconference 2023.
 - [RSECon23](https://rsecon23.society-rse.org) - The 7th Annual Conference for Research Software Engineering.
 
 ### 2022
