@@ -36,6 +36,7 @@ RSE Conferences sorted by year descending.
 
 ### 2024
 - [deRSE24](https://derse24.physik.uni-wuerzburg.de/) - Conference for Research Software Engineers in Germany.
+- [RSECon24](https://rsecon24.society-rse.org/) - The 8th annual Research Software Engineering Conference.
 
 ### 2023
 - [deRSE23](https://de-rse23.sciencesconf.org/) - Conference for Research Software Engineers in Germany.
