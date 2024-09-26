@@ -17,7 +17,8 @@ A curated awesome list of Research Software Engineering (RSE) Science. Inspired 
 
 ## Contents
 - [Conferences](#conferences)
-- 	[2024](#2024)
+  - [2025](#2025)
+  - [2024](#2024)
   - [2023](#2023)
   - [2022](#2022)
   - [2021](#2021)
@@ -34,12 +35,15 @@ A curated awesome list of Research Software Engineering (RSE) Science. Inspired 
 ## Conferences
 RSE Conferences sorted by year descending.
 
+### 2025
+- [deRSE25](https://events.hifis.net/event/1741/) - 5th Conference for Research Software Engineering in Germany
+
 ### 2024
-- [deRSE24](https://derse24.physik.uni-wuerzburg.de/) - Conference for Research Software Engineers in Germany.
+- [deRSE24](https://derse24.physik.uni-wuerzburg.de/) - 4th Conference for Research Software Engineering in Germany.
 - [RSECon24](https://rsecon24.society-rse.org/) - The 8th annual Research Software Engineering Conference.
 
 ### 2023
-- [deRSE23](https://de-rse23.sciencesconf.org/) - Conference for Research Software Engineers in Germany.
+- [deRSE23](https://de-rse23.sciencesconf.org/) - Conference for Research Software Engineering in Germany.
 - [deRSE Unconference 2023](https://de-rse.org/unconf2023/) - First unconference by and for the German Reseach Software Engineering Community.
 - [Nordic-RSE unconference 2023](https://nordic-rse.org/events/2023-online-unconference/) - Nordic-RSE online unconference 2023.
 - [RSECon23](https://rsecon23.society-rse.org) - The 7th Annual Conference for Research Software Engineering.
