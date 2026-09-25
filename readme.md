@@ -95,8 +95,10 @@ Different collections of relevant RSE literature.
 
 ## Research Projects
 Research projects that deal with RSE topics (not only research software) in alphabetical order.
+- [CodeInspector](https://gepris.dfg.de/project/504226141?lang=en) - e-Research tool for data-driven search and analysis of social science research software
 - [Project Hermes](http://software-metadata.pub/) - Developing automated workflows for metadata rich research software publications.
 - [HIRSE_PS](https://www.helmholtz-hirse.de/) - Helmholtz Platform for Research Software Engineering - Preparatory Study.
+- [MAUS](https://gepris.dfg.de/project/543616919?lang=en) - Machine-AUtomated Support for Software Management Plans
 - [ReSUS](https://www.iaas.uni-stuttgart.de/en/projects/resus/) - Reusable Software University Stuttgart.
 - [Suresoft](https://suresoft.dev/) - Suresoft is a project fostering the sustainability of research software by helping researchers adopt practices and tools from the software engineering community.
 
