@@ -16,73 +16,74 @@ A curated awesome list of Research Software Engineering (RSE) Science. Inspired 
 [Science](https://github.com/hifis-net/awesome-rse-science)
 
 ## Contents
-- [Conferences](#conferences)
-  - [2026](#2026)
-  - [2025](#2025)
-  - [2024](#2024)
-  - [2023](#2023)
-  - [2022](#2022)
-  - [2021](#2021)
-  - [2020](#2020)
-  - [2019](#2019)
-  - [2018](#2018)
-  - [2017](#2017)
+- [Events](#events)
+	- [Conferences](#conferences)
+  - [Workshops](#workshops)
 - [Literature](#literature)
 - [Research Projects](#research-projects)
 - [Scientific Working Groups](#scientific-working-groups)
 - [Related Lists](#related-lists)
 - [Contribute](#contribute)
 
-## Conferences
+## Events
+### Conferences
 RSE Conferences sorted by year descending.
 
-### 2026
+#### 2026
 - [deRSE26](https://events.hifis.net/event/2945/) - 6th Conference for Research Software Engineering in Germany 
 - [RSECon26](TBD) - The 9th annual Research Software Engineering Conference.
 - [NRSE2026](TBD) - 2026 Nordic-RSE Conference
 
-### 2025
+#### 2025
 - [deRSE25](https://events.hifis.net/event/1741/) - 5th Conference for Research Software Engineering in Germany
 - [RSECon25](https://rsecon25.society-rse.org/) - The 9th annual Research Software Engineering Conference.
 - [NRSE2025](https://nordic-rse.org/nrse2025/) - 2025 Nordic-RSE Conference
 - [USRSE25](https://us-rse.org/usrse25/) - Annual US RSE Conference: Code, Practices, and People
 
-### 2024
+#### 2024
 - [deRSE24](https://derse24.physik.uni-wuerzburg.de/) - 4th Conference for Research Software Engineering in Germany.
 - [RSECon24](https://rsecon24.society-rse.org/) - The 8th annual Research Software Engineering Conference.
 - [NRSE2024](https://nordic-rse.org/events/2024-in-person-conference/) - 2024 Nordic-RSE Conference
 
-### 2023
+#### 2023
 - [deRSE23](https://de-rse23.sciencesconf.org/) - Conference for Research Software Engineering in Germany.
 - [deRSE Unconference 2023](https://de-rse.org/unconf2023/) - First unconference by and for the German Reseach Software Engineering Community.
 - [Nordic-RSE unconference 2023](https://nordic-rse.org/events/2023-online-unconference/) - Nordic-RSE online unconference 2023.
 - [RSECon23](https://rsecon23.society-rse.org) - The 7th Annual Conference for Research Software Engineering.
 
-### 2022
+#### 2022
 - [RSECon22](https://rsecon2022.society-rse.org/)
 - [RSE Workshops @ GI SE2022](https://se-2022.gi.de/rse22workshops)
 
-### 2021
+#### 2021
 - [SORSE](https://sorse.github.io/)
 - [SeptembRSE 2021](https://septembrse.society-rse.org)
 - [NeSI - New Zealand Research Software Engineering Conference](https://www.rseconference.nz/programme-tabs1/#tabs|1)
 
-### 2020
+#### 2020
 - [deRSE20](https://de-rse.org/deRSE20/)
 - [Nordic-RSE conference 2020](https://nordic-rse.org/conference)
 - [RSECon2020](https://rsecon2020.society-rse.org/)
 - [SORSE](https://sorse.github.io/)
 
-### 2019
+#### 2019
 - [RSEConUK](https://rse.ac.uk/conf2019/)
 - [deRSE19](https://www.de-rse.org/en/conf2019/)
 - [NL-RSE19](https://nl-rse.org/events/NL-RSE19.html)
 
-### 2018
+#### 2018
 - [RSEConUK](https://rse.ac.uk/conf2018/)
 
-### 2017
+#### 2017
 - [RSEConUK](https://rse.ac.uk/conf2017/)
+
+### Workshops
+
+- 2026
+    - [Workshop on AI-supported Research Software Engineering](https://doi.org/10.25798/rcrq-c809) 	
+    - [RSE collaboration Workshop in Germany 2026](https://doi.org/10.25798/cbhx-a664)
+- 2023
+    - [un-deRSE23](https://un-derse23.sciencesconf.org)
 
 ## Literature
 Different collections of relevant RSE literature.
