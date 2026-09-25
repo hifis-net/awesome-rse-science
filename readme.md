@@ -29,10 +29,14 @@ A curated awesome list of Research Software Engineering (RSE) Science. Inspired 
 ### Conferences
 RSE Conferences sorted by year descending.
 
+#### 2027
+- [deRSE27](https://events.hifis.net/event/4318/) - 7th Conference for Research Software Engineering in Germany
+- [RSECon27](TBD) - The 10th annual Research Software Engineering Conference.
+
 #### 2026
 - [deRSE26](https://events.hifis.net/event/2945/) - 6th Conference for Research Software Engineering in Germany 
-- [RSECon26](TBD) - The 9th annual Research Software Engineering Conference.
-- [NRSE2026](TBD) - 2026 Nordic-RSE Conference
+- [RSECon26](https://rsecon26.society-rse.org/) - The 9th annual Research Software Engineering Conference.
+- [NRSE2026](https://nordic-rse.org/nrse2026/) - 2026 Nordic-RSE Conference
 
 #### 2025
 - [deRSE25](https://events.hifis.net/event/1741/) - 5th Conference for Research Software Engineering in Germany
@@ -79,11 +83,12 @@ RSE Conferences sorted by year descending.
 
 ### Workshops
 
-- 2026
-    - [Workshop on AI-supported Research Software Engineering](https://doi.org/10.25798/rcrq-c809) 	
-    - [RSE collaboration Workshop in Germany 2026](https://doi.org/10.25798/cbhx-a664)
-- 2023
-    - [un-deRSE23](https://un-derse23.sciencesconf.org)
+#### 2026
+- [Workshop on AI-supported Research Software Engineering](https://doi.org/10.25798/rcrq-c809) 	
+- [RSE collaboration Workshop in Germany 2026](https://doi.org/10.25798/cbhx-a664)
+    
+#### 2023
+- [un-deRSE23](https://un-derse23.sciencesconf.org)
 
 ## Literature
 Different collections of relevant RSE literature.
